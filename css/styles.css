@@ -11296,7 +11296,7 @@ section {
 }
 
 .app-badge {
-  height: 3rem;
+  height: 5rem;
 }
 
 #mainNav {
@@ -11518,7 +11518,8 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .masthead {
-  background-image: url("drift.jpg");
+  background-position: 0% 90%;
+  background-image: url("drift.jpg ") ;
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
