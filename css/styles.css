@@ -3040,7 +3040,7 @@ textarea.form-control-lg {
 }
 .btn-primary:disabled, .btn-primary.disabled {
   color: #fff;
-  background-color: #c70000;
+  background-color: #c40404;
   
 }
 
@@ -4069,10 +4069,11 @@ textarea.form-control-lg {
 }
 
 .navbar-toggler {
+  font-family: 'Bebas Neue', cursive;;
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
-  background-color: rgb(15, 15, 15);
+  background-color: rgb(187, 187, 189);
   border: 1px ;
   border-radius: 0.25rem;
   transition: box-shadow 0.15s ease-in-out;
